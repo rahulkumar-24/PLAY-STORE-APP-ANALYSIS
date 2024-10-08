@@ -104,6 +104,8 @@ There is a general trend of increasing positive sentiments over time. This sugge
 The number of updates is increasing over time. This suggests that the developers are releasing new updates more frequently.
 
 The number of negative sentiments is relatively stable. This suggests that people are generally not very unhappy with the updates they are receiving.
+
+
 <img src = 'M2_LineCHart.jpg'>
 
 
@@ -112,6 +114,8 @@ The number of negative sentiments is relatively stable. This suggests that peopl
 **Apps with higher ratings tend to have higher average sentiment polarity:** This correlation is logical, as users are more inclined to leave positive reviews for apps they enjoy using.
 
 **Niche Apps with High Sentiment Polarity:** Some apps exhibit high average sentiment polarity despite having relatively low install counts. This indicates the presence of niche apps that are deeply cherished by their user base, even though they may not enjoy widespread popularity.
+
+<img src = 'Screenshot 2024-10-08 170002.png'>
 
 **Popularity vs. Sentiment Polarity Discrepancy:** The large bubbles representing the most installed apps generally show lower average sentiment polarity. This implies that widespread popularity doesn't consistently align with positive user sentiment.
 

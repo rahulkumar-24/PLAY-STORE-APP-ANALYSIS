@@ -80,7 +80,7 @@ The following 3 categories in revenue ranking **Game, Photography, and Family** 
 Contrastingly, the **Sports** category records the lowest average revenue, implying a lack of popularity among users. Similarly, the **Education** category follows closely with the second lowest average revenue, highlighting lower profitability.
 
 The **Personalization** category secures the fourth-lowest average revenue, suggesting a relatively lower level of user interest. Lastly, the **Medical** category ranks third lowest in average revenue, indicating potential challenges in terms of convenience or security for apps within this category.
-
+<img src = 'Screenshot 2024-10-08 165850.png'>
 
 
 **Revenue and Android Version of the Top 8 Paid Apps:**

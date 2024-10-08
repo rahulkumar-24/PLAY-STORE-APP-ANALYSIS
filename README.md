@@ -104,7 +104,7 @@ There is a general trend of increasing positive sentiments over time. This sugge
 The number of updates is increasing over time. This suggests that the developers are releasing new updates more frequently.
 
 The number of negative sentiments is relatively stable. This suggests that people are generally not very unhappy with the updates they are receiving.
-
+<img src = 'M2_LineCHart.jpg'>
 
 
 **Sentiment Polarity by Rating and Installs:**

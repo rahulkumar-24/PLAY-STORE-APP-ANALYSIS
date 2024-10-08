@@ -51,7 +51,7 @@ The **Everyone 10+** category follows with the third-highest installs, suggestin
 The **Mature 17+** and **Adults only 18+** categories exhibit significantly fewer installs. This implies a limited preference for apps tailored to users aged 17 or older or 18 and older, which may feature intense or graphic content like violence, sexual content, drug use, or gambling.
 
 The **Unrated** category records the fewest installs, suggesting minimal interest in apps lacking official ratings. These apps may have unknown or variable content, potentially unsuitable for some users.
-
+<img src = 'Screenshot 2024-10-08 165812.png'>
 
 
 **Size Groups by Installs:**

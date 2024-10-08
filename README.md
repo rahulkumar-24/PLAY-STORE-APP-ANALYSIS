@@ -40,7 +40,7 @@ The larger slice of the pie chart represents the free apps, with 92.3% of the to
 
 **Communication** apps are the fifth most popular genre. Communication apps include messaging apps and video conferencing apps.
 
-
+<img src = 'Screenshot 2024-10-08 165757.png'>
 
 **Content Ratings by Installs:**
 

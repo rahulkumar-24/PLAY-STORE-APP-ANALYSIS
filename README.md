@@ -25,7 +25,7 @@ The histogram shows that majority of users are satisfied with the apps, as evide
 **Distribution of App Types:**
 
 The larger slice of the pie chart represents the free apps, with 92.3% of the total. The smaller slice representing paid apps, with 7.7% of the total. This indicates that the vast majority of apps on the Google Play Store are free to download and use.
-
+<img src = 'Screenshot 2024-10-08 165742.png'>
 
 
 **Top 10 Genres by Installs:**

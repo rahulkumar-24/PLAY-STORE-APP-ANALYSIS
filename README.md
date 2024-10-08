@@ -88,7 +88,7 @@ The **Personalization** category secures the fourth-lowest average revenue, sugg
 The apps with Android versions 4.0 and above dominate the higher revenue ranks, suggesting a correlation between app compatibility with newer Android versions and revenue generation.
 
 Among the top 8 high revenue apps, six are designed for Android versions 4.0 and above. The exceptions are "Grand Theft Auto: San Andreas" (Android 3.0 and up) and "DraStic DS Emulator" (Android 2.3 and up), both of which are on the lower end of the revenue spectrum.
-
+<img src = 'Screenshot 2024-10-08 165901.png'>
 
 
 **Sentiment counts across categories:**

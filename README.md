@@ -117,15 +117,12 @@ The number of negative sentiments is relatively stable. This suggests that peopl
 
 <img src = 'Screenshot 2024-10-08 170002.png'>
 
-**Popularity vs. Sentiment Polarity Discrepancy:** The large bubbles representing the most installed apps generally show lower average sentiment polarity. This implies that widespread popularity doesn't consistently align with positive user sentiment.
-
-
 
 **Relationship between Sentiment Subjectivity and Sentiment Polarity:**
 
 The scatter plot of Sentiment Polarity and Sentiment Subjectivity shows a moderate positive correlation between the two variables. This means that, in general, as sentiment polarity increases, sentiment subjectivity tends to increase as well. However, the relationship is not very strong. This suggests that there is a tendency for people to express their opinions more strongly when they are feeling positive than when they are feeling negative.
 
-
+<img src = 'Screenshot 2024-10-08 170013.png'>
 
 **Correlation among Rating, Reviews, Installs, Price, Sentiment_Polarity, and Sentiment_Subjectivity:**
 
@@ -137,7 +134,7 @@ Installs has a weak negative correlation with Price. This means that apps with m
 
 Sentiment_Polarity has a moderate positive correlation with Sentiment_Subjectivity. This means that apps with more positive sentiment in their reviews tend to have slightly more subjective reviews.
 
-
+<img src = 'Screenshot 2024-10-08 170033.png'>
 
 **Pair Plot - Rating, Installs, Reviews, Price:**
 
@@ -151,6 +148,7 @@ Sentiment_Polarity has a moderate positive correlation with Sentiment_Subjectivi
 
 **Installs and Price:** There is a weak negative correlation between installs and price, meaning that apps with more installs tend to be slightly cheaper. This is likely because developers of popular apps are able to charge lower prices due to the high volume of installs.
 
+<img src = 'Screenshot 2024-10-08 170044.png'>
 
 
 **Actionable Recommendations:**

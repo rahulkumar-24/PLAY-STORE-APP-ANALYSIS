@@ -14,7 +14,7 @@ The Exploratory Data Analysis (EDA) phase unveils critical insights, transcendin
 **Distribution of Sentiment Polarity:**
 
 The histogram shows a clear peak towards the positive side, indicating most apps have predominantly positive sentiment amongst users. This suggests most apps are well-received and appreciated by users.
-<img src = 'Screenshot 2024-10-08 165612.png' alt = 'Sentiment_Chart' height = '300'>
+<img src = 'Screenshot 2024-10-08 165612.png' alt = 'Sentiment_Chart'>
 
 
 **Distribution of App Ratings:**

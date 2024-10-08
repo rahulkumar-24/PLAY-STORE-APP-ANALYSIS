@@ -58,7 +58,7 @@ The **Unrated** category records the fewest installs, suggesting minimal interes
 
 The size group with the most installs is the below 20 group, followed by the 20-40 group, followed by the 40-60 group, then the 60-80 group, and finally the 80-100 group.
 The size group with the least installs is the 80-100 group, which has less than a quarter of the installs of the below 20 group. This suggests that the users prefer smaller apps over larger apps. This could indicate that the users have limited storage space on their devices, or that they are more selective about the apps they download and install.
-
+<img src = 'Screenshot 2024-10-08 165824.png'>
 
 
 **Distribution of Ratings by Update Year:**

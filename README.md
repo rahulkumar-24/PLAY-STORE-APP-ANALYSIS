@@ -20,8 +20,7 @@ The histogram shows a clear peak towards the positive side, indicating most apps
 **Distribution of App Ratings:**
 
 The histogram shows that majority of users are satisfied with the apps, as evidenced by the high concentration of positive ratings.
-
-
+<img src = 'Screenshot 2024-10-08 165723.png'>
 
 **Distribution of App Types:**
 

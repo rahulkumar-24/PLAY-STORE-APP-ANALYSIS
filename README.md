@@ -69,7 +69,7 @@ The red line shows that the overall trend is towards increasing ratings. This is
 
 The slope of the red line is positive, which indicates that the relationship between rating and update year is positive. This means that ratings tend to increase as the update year increases.
 
-
+<img src = 'Screenshot 2024-10-08 165840.png'>
 
 **Top 10 Categories by Average Revenue:**
 

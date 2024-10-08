@@ -14,18 +14,18 @@ The Exploratory Data Analysis (EDA) phase unveils critical insights, transcendin
 **Distribution of Sentiment Polarity:**
 
 The histogram shows a clear peak towards the positive side, indicating most apps have predominantly positive sentiment amongst users. This suggests most apps are well-received and appreciated by users.
-<img src = 'Screenshot 2024-10-08 165612.png' alt = 'Sentiment_Chart'>
+<img src = 'charts/M2_Chart_Dist_Polarity.png' alt = 'Sentiment_Chart'>
 
 
 **Distribution of App Ratings:**
 
 The histogram shows that majority of users are satisfied with the apps, as evidenced by the high concentration of positive ratings.
-<img src = 'Screenshot 2024-10-08 165723.png'>
+<img src = 'charts/M2_Chart_Dist_Rating.png'>
 
 **Distribution of App Types:**
 
 The larger slice of the pie chart represents the free apps, with 92.3% of the total. The smaller slice representing paid apps, with 7.7% of the total. This indicates that the vast majority of apps on the Google Play Store are free to download and use.
-<img src = 'Screenshot 2024-10-08 165742.png'>
+<img src = 'charts/M2_Chart_App_Type.png'>
 
 
 **Top 10 Genres by Installs:**
@@ -40,7 +40,7 @@ The larger slice of the pie chart represents the free apps, with 92.3% of the to
 
 **Communication** apps are the fifth most popular genre. Communication apps include messaging apps and video conferencing apps.
 
-<img src = 'Screenshot 2024-10-08 165757.png'>
+<img src = 'charts/M2_Chart_10_Genres.png'>
 
 **Content Ratings by Installs:**
 
@@ -51,14 +51,14 @@ The **Everyone 10+** category follows with the third-highest installs, suggestin
 The **Mature 17+** and **Adults only 18+** categories exhibit significantly fewer installs. This implies a limited preference for apps tailored to users aged 17 or older or 18 and older, which may feature intense or graphic content like violence, sexual content, drug use, or gambling.
 
 The **Unrated** category records the fewest installs, suggesting minimal interest in apps lacking official ratings. These apps may have unknown or variable content, potentially unsuitable for some users.
-<img src = 'Screenshot 2024-10-08 165812.png'>
+<img src = 'charts/M2_Chart_Content_Rating.png'>
 
 
 **Size Groups by Installs:**
 
 The size group with the most installs is the below 20 group, followed by the 20-40 group, followed by the 40-60 group, then the 60-80 group, and finally the 80-100 group.
 The size group with the least installs is the 80-100 group, which has less than a quarter of the installs of the below 20 group. This suggests that the users prefer smaller apps over larger apps. This could indicate that the users have limited storage space on their devices, or that they are more selective about the apps they download and install.
-<img src = 'Screenshot 2024-10-08 165824.png'>
+<img src = 'charts/M2_Chart_Size_Group.png'>
 
 
 **Distribution of Ratings by Update Year:**
@@ -69,7 +69,7 @@ The red line shows that the overall trend is towards increasing ratings. This is
 
 The slope of the red line is positive, which indicates that the relationship between rating and update year is positive. This means that ratings tend to increase as the update year increases.
 
-<img src = 'Screenshot 2024-10-08 165840.png'>
+<img src = 'charts/M2_Chart_App_Rating.png'>
 
 **Top 10 Categories by Average Revenue:**
 
@@ -80,7 +80,7 @@ The following 3 categories in revenue ranking **Game, Photography, and Family** 
 Contrastingly, the **Sports** category records the lowest average revenue, implying a lack of popularity among users. Similarly, the **Education** category follows closely with the second lowest average revenue, highlighting lower profitability.
 
 The **Personalization** category secures the fourth-lowest average revenue, suggesting a relatively lower level of user interest. Lastly, the **Medical** category ranks third lowest in average revenue, indicating potential challenges in terms of convenience or security for apps within this category.
-<img src = 'Screenshot 2024-10-08 165850.png'>
+<img src = 'charts/M2_Chart_Revenue.png'>
 
 
 **Revenue and Android Version of the Top 8 Paid Apps:**
@@ -88,13 +88,13 @@ The **Personalization** category secures the fourth-lowest average revenue, sugg
 The apps with Android versions 4.0 and above dominate the higher revenue ranks, suggesting a correlation between app compatibility with newer Android versions and revenue generation.
 
 Among the top 8 high revenue apps, six are designed for Android versions 4.0 and above. The exceptions are "Grand Theft Auto: San Andreas" (Android 3.0 and up) and "DraStic DS Emulator" (Android 2.3 and up), both of which are on the lower end of the revenue spectrum.
-<img src = 'Screenshot 2024-10-08 165901.png'>
+<img src = 'charts/M2_Chart_Revenue_App.png'>
 
 
 **Sentiment counts across categories:**
 
 The stacked bar chart reveals a complex interplay of positive and negative sentiments across different categories. While people express positive sentiments towards categories like games, family, health and fitness, travel and local, and dating, there is also a notable presence of negative sentiment associated with most of these same categories.
-<img src = 'Screenshot 2024-10-08 165914.png'>
+<img src = 'charts/M2_Chart_Sentiment_Category.png'>
 
 
 **Update counts and the distribution of sentiment counts over time:**
@@ -106,7 +106,7 @@ The number of updates is increasing over time. This suggests that the developers
 The number of negative sentiments is relatively stable. This suggests that people are generally not very unhappy with the updates they are receiving.
 
 
-<img src = 'M2_LineCHart.jpg'>
+<img src = 'charts/M2_LineCHart.jpg'>
 
 
 **Sentiment Polarity by Rating and Installs:**
@@ -115,14 +115,14 @@ The number of negative sentiments is relatively stable. This suggests that peopl
 
 **Niche Apps with High Sentiment Polarity:** Some apps exhibit high average sentiment polarity despite having relatively low install counts. This indicates the presence of niche apps that are deeply cherished by their user base, even though they may not enjoy widespread popularity.
 
-<img src = 'Screenshot 2024-10-08 170002.png'>
+<img src = 'charts/M2_Chart_Polarity_Rating.png'>
 
 
 **Relationship between Sentiment Subjectivity and Sentiment Polarity:**
 
 The scatter plot of Sentiment Polarity and Sentiment Subjectivity shows a moderate positive correlation between the two variables. This means that, in general, as sentiment polarity increases, sentiment subjectivity tends to increase as well. However, the relationship is not very strong. This suggests that there is a tendency for people to express their opinions more strongly when they are feeling positive than when they are feeling negative.
 
-<img src = 'Screenshot 2024-10-08 170013.png'>
+<img src = 'charts/M2_Chart_Sentiment_Sub_Polarity.png'>
 
 **Correlation among Rating, Reviews, Installs, Price, Sentiment_Polarity, and Sentiment_Subjectivity:**
 
@@ -134,7 +134,7 @@ Installs has a weak negative correlation with Price. This means that apps with m
 
 Sentiment_Polarity has a moderate positive correlation with Sentiment_Subjectivity. This means that apps with more positive sentiment in their reviews tend to have slightly more subjective reviews.
 
-<img src = 'Screenshot 2024-10-08 170033.png'>
+<img src = 'charts/M2_Chart_Corelation_Matrix.png'>
 
 **Pair Plot - Rating, Installs, Reviews, Price:**
 
@@ -148,7 +148,7 @@ Sentiment_Polarity has a moderate positive correlation with Sentiment_Subjectivi
 
 **Installs and Price:** There is a weak negative correlation between installs and price, meaning that apps with more installs tend to be slightly cheaper. This is likely because developers of popular apps are able to charge lower prices due to the high volume of installs.
 
-<img src = 'Screenshot 2024-10-08 170044.png'>
+<img src = 'charts/M2_Chart_Pair_Plot.png'>
 
 
 **Actionable Recommendations:**

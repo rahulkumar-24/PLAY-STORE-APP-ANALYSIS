@@ -94,7 +94,7 @@ Among the top 8 high revenue apps, six are designed for Android versions 4.0 and
 **Sentiment counts across categories:**
 
 The stacked bar chart reveals a complex interplay of positive and negative sentiments across different categories. While people express positive sentiments towards categories like games, family, health and fitness, travel and local, and dating, there is also a notable presence of negative sentiment associated with most of these same categories.
-
+<img src = 'Screenshot 2024-10-08 165914.png'>
 
 
 **Update counts and the distribution of sentiment counts over time:**
